@@ -1,4 +1,4 @@
-# teste_01
+# RECRUITMENT TASKS
 
 # Testes de um processo seletivo
 
@@ -30,4 +30,12 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 IMPORTANTE:
 - Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 - Evite usar funções prontas, como, por exemplo, reverse;
+#
 
+5. Escreva um programa em pseudocódigo ou em uma linguagem de programação de sua escolha que faça o seguinte:
+- Receba um número inteiro positivo como entrada
+- Imprima todos os números pares de 0 até esse número (inclusive)
+- Se o número for ímpar, imprima também uma mensagem indicando isso\
+Exemplo de saída para entrada = 7:\
+0 2 4 6\
+O número 7 é ímpar
