@@ -36,6 +36,8 @@ IMPORTANTE:
 - Receba um número inteiro positivo como entrada
 - Imprima todos os números pares de 0 até esse número (inclusive)
 - Se o número for ímpar, imprima também uma mensagem indicando isso\
-Exemplo de saída para entrada = 7:\
-0 2 4 6\
+Exemplo de saída para entrada = 7:
+```python
+0 2 4 6
 O número 7 é ímpar
+```
